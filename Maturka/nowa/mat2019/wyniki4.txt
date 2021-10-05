@@ -1,0 +1,1 @@
+4.3: Pierwsza liczba: 31968, Dlugosc: 150, NWD: 74

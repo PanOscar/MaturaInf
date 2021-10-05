@@ -1,0 +1,31 @@
+1.Piąteczek
+    Pobrać od użytkownika słowo  (dzień tygodnia)
+    Jeśli to piątek to wypisać tekst "Piąteczek piątunio! :)"
+    Jeśli to weekend to wypisać "weeeekend!!"
+    W pozostałych przypadkach wypisać "Szkoła... :("
+2. Suma podawanych liczb
+    Pobrać od użytkownika liczbę przypadków (t).
+    t-razy pobrać od użytkownika liczbę
+    Wypisać sumę podanych liczb
+3.Pobieranie do skutku
+    Pobieraj od użytkownika liczbę tak długo aż poda 0
+4.Liczby pierwsze
+    a) Pobrać liczbę x od użytkownika
+       Wypisać na ekranie "TAK, ta liczba jest pierwsza" lub "Ta liczba niestety nie jest pierwsza"
+       Algorytm napisać bez oparcia o żadną funkcję
+    b) Napisać ten sam algorytm wewnątrz funkcji prime() która będzie zwracała wartosć logiczną True lub False (return True)
+       a poza funkcja wypisze czy dana liczba jest pierwsza bądź nie
+       Podpowiedź: if x(wartość zwracana z funkcji) == True
+    !!! W obu przypadkach algorytm ma być zabezpieczony przez liczbami mniejszymi od 1
+    !!! oraz przypadkowym wpisaniem tekstu zamiast liczby
+    Ciekawostka: Spróbuj sprawdzać elementy do (pierwiastka z x)+1 /math.sqrt(x)+1
+                 i sprawdź czy program też działa tak samo
+5. Dzień tygodnia
+    Napisać funkcję dzienTyg()
+    pobierającą jeden parametr tekstowy x (string) - dzień tygodnia
+    zwracający cyfrę od 1 do 7. 1 gdy podamy poniedziałek, 2 - wtorek, ... 7 niedziela
+    wywołać metodę podając kilka parametrów 'z ręki' lub poprzez input od użytkownika
+
+    Ambitne: Napisz taki sam kod w funkcji w maksymalnie 6 liniach.
+    Podpowiedź: Użyj tablic/list i ich indesków
+6.

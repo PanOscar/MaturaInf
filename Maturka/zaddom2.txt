@@ -1,0 +1,16 @@
+1. Czy podane liczby są sobie równe 9A4(12) i 10325(6)
+
+2.Wykonaj działania mnożenia, dzielenia, dodawania i odejmowania na liczbach
+  100100110(2) i 10(4) a wynik zapisz w systemie (8)
+
+3.Piąteczek
+    Pobrać od użytkownika słowo  (dzień tygodnia)
+    Jeśli to piątek to wypisać tekst "Piąteczek piątunio! :)"
+    Jeśli to weekend to wypisać "weeeekend!!"
+    W pozostałych przypadkach wypisać "Szkoła... :("
+4. Suma podawanych liczb
+    Pobrać od użytkownika liczbę przypadków (t).
+    t-razy pobrać od użytkownika liczbę
+    Wypisać sumę podanych liczb
+5.Pobieranie do skutku
+    Pobieraj od użytkownika liczbę tak długo aż poda 0
